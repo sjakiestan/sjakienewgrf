@@ -18,7 +18,9 @@ tiles:
   - alwaysDraw: true
     drawType: recolour
     sprite:
-      id: 3924
+      filename: industries/electromine/2.png
+      left: -31
+      top: 0
   - alwaysDraw: false
     drawType: recolour
     sprite:
