@@ -1,0 +1,17 @@
+abbreviation: EL
+available: false
+classes: 32
+colour: 232
+id: 0
+label: LCTR
+longName: electrolyte ore
+name: Electrolyte Ore
+penaltyLength: 255
+penaltyLowerBound: 0
+price: 10280
+sprite:
+  filename: cargoes/electrolyte-ore.png
+  left: 0
+  top: 0
+unitName: Tonnes
+weight: 16
