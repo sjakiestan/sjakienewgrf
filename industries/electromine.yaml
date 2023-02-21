@@ -11,7 +11,7 @@ layout:
 name: Electromine
 placement: anywhere
 probabilityInGame: 5
-probabilityMapGen: 3
+probabilityMapGen: 30
 prospectChance: 75
 tiles:
 - sprites:
